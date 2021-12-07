@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.exe
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.deps.json
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ref\ShoppingList.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.pdb
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ref\ShoppingList.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.pdb
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.genruntimeconfig.cache

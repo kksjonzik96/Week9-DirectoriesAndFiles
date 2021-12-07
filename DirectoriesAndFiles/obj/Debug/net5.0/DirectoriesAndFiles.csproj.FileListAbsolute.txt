@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.exe
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.deps.json
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\ref\DirectoriesAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\bin\Debug\net5.0\DirectoriesAndFiles.pdb
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\ref\DirectoriesAndFiles.dll
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.pdb
+D:\Programmeerimise algkursus (RKE132)\DirectoriesAndFiles\DirectoriesAndFiles\obj\Debug\net5.0\DirectoriesAndFiles.genruntimeconfig.cache
